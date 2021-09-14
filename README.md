@@ -1,6 +1,6 @@
 - Hi, I’m @satoshei
 - I’m interested in crypto, finance, AI and video games
-- I’m currently learning python, machine learning and AI
+- I’m currently learning python, django, C++, machine learning and AI
 - I’m looking to collaborate on a variety of projects which includes in the form of AI and machine learning
 
 <!---
